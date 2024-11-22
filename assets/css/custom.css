@@ -1,0 +1,12 @@
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track:vertical {
+    background: transparent;
+}
+
+::-webkit-scrollbar-thumb:vertical {
+    background: gray;
+    border-radius: 5px;
+}
